@@ -1,0 +1,17 @@
+{
+  "name": "SCREEN BET",
+  "short_name": "SCREEN BET",
+  "description": "Tiene traccia delle schedine: le legge dagli screenshot, segue i risultati e calcola il bilancio.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#010508",
+  "theme_color": "#040c0a",
+  "icons": [
+    { "src": "./favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./logo.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
